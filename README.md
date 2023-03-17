@@ -1,4 +1,4 @@
-# itenary-builder
+# itinerary-builder
 
 ## Problem
 
